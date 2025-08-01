@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Friend's Name Here]
+# 👋 Hi, I'm Rushikesh
 
 🎓 Computer Science Student | 💻 Web Developer in Training  
 🚀 Passionate about Frontend & Python Development
@@ -38,8 +38,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [yourfriend@example.com]  
-- 🔗 GitHub: [github.com/yourfriend](https://github.com/yourfriend)
+- 📧 Email: [rushikeshnavale01@gmail.com.com]  
+- 🔗 GitHub: [github.com](https://github.com/Rushi4335)
 
 ---
 
